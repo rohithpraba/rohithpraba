@@ -6,7 +6,7 @@ A passionate tech explorer focused on building impactful projects with **Machine
 
 ## 🛠 Tech Stack & Tools
 
-- **Languages**: Python, SQL, Java  
+- **Languages**: Python, SQL  
 - **Libraries & Frameworks**: Scikit-learn, TensorFlow, Keras, OpenCV, NLTK, XGBoost, Pandas, NumPy, Matplotlib, Seaborn  
 - **Platforms & Tools**: Jupyter Notebook, Google Colab, VS Code, Gradio, Git, GitHub  
 - **Concepts**: Supervised & Unsupervised ML, Deep Learning, Image Segmentation, NLP, SMOTE, EDA, Feature Engineering  
