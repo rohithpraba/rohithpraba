@@ -16,6 +16,9 @@ A passionate tech explorer focused on building impactful projects with **Machine
 
 ## 📂 Featured Repositories
 
+### 🔹 [GemmaTalks-AI-Chatbot](https://github.com/rohithpraba/GemmaTalks-AI-Chatbot)
+A fully offline, real-time AI chatbot built with Gradio, Ollama, and Gemma 3. Supports streaming responses for dynamic interaction and runs locally without internet or API keys. Ideal for privacy-focused applications and lightweight personal AI assistants.
+
 ### 🔹 [AI-POWERED-TASK-MANAGEMENT-SYSTEM](https://github.com/rohithpraba/AI-POWERED-TASK-MANAGEMENT-SYSTEM)
 A smart task management system built with machine learning pipelines to classify, prioritize, and analyze tasks intelligently. Demonstrates use of real-world datasets, model evaluation, and Gradio-based UI.
 
